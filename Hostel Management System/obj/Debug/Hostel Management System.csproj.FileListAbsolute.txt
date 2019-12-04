@@ -1,0 +1,112 @@
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.pdb
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Login.resources
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Properties.Resources.resources
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.GenerateResource.Cache
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.pdb
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Homepage.resources
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Registration.resources
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Student_Information.resources
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.RoomDetails.resources
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Fees_Details.resources
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Room_Selection.resources
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Popup.resources
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Usersettings.resources
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Roomtransfer.resources
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.studentdetail.resources
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.studentadvancedetails.resources
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe.manifest
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.application
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe.manifest
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.application
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\bin\Debug\HostelSystem.mdf
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\bin\Debug\HostelSystem_log.ldf
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Form1.resources
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe.config
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Webcamera.resources
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.GenralPopup.resources
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.RegularStudentFeesCollect.resources
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\bin\Debug\AForge.Video.DirectShow.dll
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\bin\Debug\AForge.Video.dll
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\bin\Debug\AForge.dll
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\bin\Debug\AForge.Video.xml
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\bin\Debug\AForge.Video.DirectShow.xml
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\bin\Debug\AForge.xml
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Attendance.resources
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Aboutme.resources
+D:\SOFTWARES\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csprojResolveAssemblyReference.cache
+G:\Projects\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe.config
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.pdb
+G:\Projects\Hostel Management System\Hostel Management System\bin\Debug\HostelSystem.mdf
+G:\Projects\Hostel Management System\Hostel Management System\bin\Debug\HostelSystem_log.ldf
+G:\Projects\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe.manifest
+G:\Projects\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.application
+G:\Projects\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe
+G:\Projects\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.pdb
+G:\Projects\Hostel Management System\Hostel Management System\bin\Debug\AForge.dll
+G:\Projects\Hostel Management System\Hostel Management System\bin\Debug\AForge.Video.xml
+G:\Projects\Hostel Management System\Hostel Management System\bin\Debug\AForge.Video.DirectShow.xml
+G:\Projects\Hostel Management System\Hostel Management System\bin\Debug\AForge.xml
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csprojResolveAssemblyReference.cache
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Aboutme.resources
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Attendance.resources
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Fees_Details.resources
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Form1.resources
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.GenralPopup.resources
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Homepage.resources
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Login.resources
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Popup.resources
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Properties.Resources.resources
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Registration.resources
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.RegularStudentFeesCollect.resources
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Room_Selection.resources
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.RoomDetails.resources
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Roomtransfer.resources
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Student_Information.resources
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.studentadvancedetails.resources
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.studentdetail.resources
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Usersettings.resources
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Webcamera.resources
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.GenerateResource.Cache
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe.manifest
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.application
+G:\Projects\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Lunchmanagement.resources
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe.config
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.pdb
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\bin\Debug\HostelSystem.mdf
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\bin\Debug\HostelSystem_log.ldf
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe.manifest
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.application
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.pdb
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\bin\Debug\AForge.dll
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\bin\Debug\AForge.Video.xml
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\bin\Debug\AForge.Video.DirectShow.xml
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\bin\Debug\AForge.xml
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csprojResolveAssemblyReference.cache
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Aboutme.resources
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Attendance.resources
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Fees_Details.resources
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Form1.resources
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.GenralPopup.resources
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Homepage.resources
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Login.resources
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Lunchmanagement.resources
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Popup.resources
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Properties.Resources.resources
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Registration.resources
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.RegularStudentFeesCollect.resources
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Room_Selection.resources
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.RoomDetails.resources
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Roomtransfer.resources
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Student_Information.resources
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.studentadvancedetails.resources
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.studentdetail.resources
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Usersettings.resources
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Webcamera.resources
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.GenerateResource.Cache
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe.manifest
+F:\Projects\Hostel Management System\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.application

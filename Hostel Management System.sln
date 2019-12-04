@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hostel Management System", "Hostel Management System\Hostel Management System.csproj", "{1062FE68-A7B3-4103-9F41-D9FA4C27A3A9}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "HMS New", "HMS New\HMS New.isproj", "{043139F5-F0AB-4527-8EAE-C8EC39C21106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1062FE68-A7B3-4103-9F41-D9FA4C27A3A9}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{1062FE68-A7B3-4103-9F41-D9FA4C27A3A9}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{1062FE68-A7B3-4103-9F41-D9FA4C27A3A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1062FE68-A7B3-4103-9F41-D9FA4C27A3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1062FE68-A7B3-4103-9F41-D9FA4C27A3A9}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{1062FE68-A7B3-4103-9F41-D9FA4C27A3A9}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{1062FE68-A7B3-4103-9F41-D9FA4C27A3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1062FE68-A7B3-4103-9F41-D9FA4C27A3A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1062FE68-A7B3-4103-9F41-D9FA4C27A3A9}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{1062FE68-A7B3-4103-9F41-D9FA4C27A3A9}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{043139F5-F0AB-4527-8EAE-C8EC39C21106}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{043139F5-F0AB-4527-8EAE-C8EC39C21106}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{043139F5-F0AB-4527-8EAE-C8EC39C21106}.Debug|Any CPU.ActiveCfg = DVD-5
+		{043139F5-F0AB-4527-8EAE-C8EC39C21106}.Debug|Any CPU.Build.0 = DVD-5
+		{043139F5-F0AB-4527-8EAE-C8EC39C21106}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{043139F5-F0AB-4527-8EAE-C8EC39C21106}.DVD-5|Any CPU.Build.0 = DVD-5
+		{043139F5-F0AB-4527-8EAE-C8EC39C21106}.Release|Any CPU.ActiveCfg = SingleImage
+		{043139F5-F0AB-4527-8EAE-C8EC39C21106}.Release|Any CPU.Build.0 = SingleImage
+		{043139F5-F0AB-4527-8EAE-C8EC39C21106}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{043139F5-F0AB-4527-8EAE-C8EC39C21106}.SingleImage|Any CPU.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
