@@ -9,3 +9,5 @@ Designed desktop application for managing various processes in hostel that is la
 ![Room Details](https://user-images.githubusercontent.com/17529777/70114146-72c00300-1681-11ea-8cc2-55706e30aa7f.jpg)
 
 ![Student Details](https://user-images.githubusercontent.com/17529777/70114148-72c00300-1681-11ea-88f4-7e01b1a3588b.jpg)
+
+Preview Link: https://www.youtube.com/watch?v=QY833ddxZF8&t=136s
